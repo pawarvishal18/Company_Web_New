@@ -109,7 +109,9 @@
     }
     .call-no {
         a {
-            color: $warning !important;
+            // color: $warning !important;
+            // color: $primary !important;
+            color: $blue !important;
         }
     }
     .logo {
@@ -198,7 +200,7 @@
         .call-no {
             a {
                 padding-left: 0 !important;
-                color: $warning !important;
+                color: $primary !important;
             }
         }
     }
